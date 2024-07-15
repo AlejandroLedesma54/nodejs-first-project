@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Comprar leche",
+    "description": "Ir al supermercado y comprar leche"
+  },
+  {
+    "id": 2,
+    "title": "Comprar chorizo",
+    "description": "Puede ser choripan o dependiendo de lo que diga Manuela"
+  }
+]
